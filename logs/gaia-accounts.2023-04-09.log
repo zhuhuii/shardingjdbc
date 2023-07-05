@@ -1,0 +1,236 @@
+2023-04-09 15:58:56.909 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Starting ShardingTestApplication using Java 1.8.0_202 on DESKTOP-DEB9VCI with PID 26328 (F:\sanliu\workData\shardingjdbc\target\classes started by zhuhui in F:\sanliu\workData\shardingjdbc) 
+2023-04-09 15:58:56.912 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - No active profile set, falling back to 1 default profile: "default" 
+2023-04-09 15:58:58.124 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2023-04-09 15:58:58.133 [main] INFO 
+                org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2023-04-09 15:58:58.134 [main] INFO 
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60] 
+2023-04-09 15:58:58.272 [main] INFO 
+                o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2023-04-09 15:58:58.273 [main] INFO 
+                o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1157 ms 
+2023-04-09 15:58:58.724 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2023-04-09 15:58:58.860 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-2} inited 
+2023-04-09 15:58:59.593 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2023-04-09 15:58:59.603 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Started ShardingTestApplication in 3.526 seconds (JVM running for 4.94) 
+2023-04-09 15:58:59.605 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - 1111 
+2023-04-09 15:58:59.606 [main] ERROR
+                org.java.shardingjdbc.ShardingTestApplication - 222 
+2023-04-09 15:58:59.606 [main] WARN 
+                org.java.shardingjdbc.ShardingTestApplication - 444 
+2023-04-09 16:03:53.384 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Starting ShardingTestApplication using Java 1.8.0_202 on DESKTOP-DEB9VCI with PID 24360 (F:\sanliu\workData\shardingjdbc\target\classes started by zhuhui in F:\sanliu\workData\shardingjdbc) 
+2023-04-09 16:03:53.387 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - No active profile set, falling back to 1 default profile: "default" 
+2023-04-09 16:03:54.901 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2023-04-09 16:03:54.909 [main] INFO 
+                org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2023-04-09 16:03:54.910 [main] INFO 
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60] 
+2023-04-09 16:03:55.054 [main] INFO 
+                o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2023-04-09 16:03:55.054 [main] INFO 
+                o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1485 ms 
+2023-04-09 16:03:55.522 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2023-04-09 16:03:55.710 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-2} inited 
+2023-04-09 16:03:56.531 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2023-04-09 16:03:56.542 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Started ShardingTestApplication in 4.002 seconds (JVM running for 5.766) 
+2023-04-09 16:03:56.545 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - 1111 
+2023-04-09 16:03:56.545 [main] ERROR
+                org.java.shardingjdbc.ShardingTestApplication - 222 
+2023-04-09 16:03:56.546 [main] WARN 
+                org.java.shardingjdbc.ShardingTestApplication - 444 
+2023-04-09 16:05:20.562 [main] ERROR
+                org.java.shardingjdbc.ShardingTestApplication - 222 
+2023-04-09 18:06:35.626 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Starting ShardingTestApplication using Java 1.8.0_202 on DESKTOP-DEB9VCI with PID 11908 (F:\sanliu\workData\shardingjdbc\target\classes started by zhuhui in F:\sanliu\workData\shardingjdbc) 
+2023-04-09 18:06:35.718 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - No active profile set, falling back to 1 default profile: "default" 
+2023-04-09 18:06:36.867 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2023-04-09 18:06:36.876 [main] INFO 
+                org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2023-04-09 18:06:36.876 [main] INFO 
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60] 
+2023-04-09 18:06:37.005 [main] INFO 
+                o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2023-04-09 18:06:37.005 [main] INFO 
+                o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1086 ms 
+2023-04-09 18:06:37.505 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2023-04-09 18:06:37.642 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-2} inited 
+2023-04-09 18:06:38.326 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2023-04-09 18:06:38.334 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Started ShardingTestApplication in 3.539 seconds (JVM running for 4.738) 
+2023-04-09 18:06:38.337 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - 1111 
+2023-04-09 18:06:38.337 [main] ERROR
+                org.java.shardingjdbc.ShardingTestApplication - 222 
+2023-04-09 18:06:38.337 [main] WARN 
+                org.java.shardingjdbc.ShardingTestApplication - 444 
+2023-04-09 18:07:20.865 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Starting ShardingTestApplication using Java 1.8.0_202 on DESKTOP-DEB9VCI with PID 768 (F:\sanliu\workData\shardingjdbc\target\classes started by zhuhui in F:\sanliu\workData\shardingjdbc) 
+2023-04-09 18:07:20.868 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - No active profile set, falling back to 1 default profile: "default" 
+2023-04-09 18:07:22.067 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2023-04-09 18:07:22.076 [main] INFO 
+                org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2023-04-09 18:07:22.077 [main] INFO 
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60] 
+2023-04-09 18:07:22.210 [main] INFO 
+                o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2023-04-09 18:07:22.210 [main] INFO 
+                o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1112 ms 
+2023-04-09 18:07:22.678 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2023-04-09 18:07:22.813 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-2} inited 
+2023-04-09 18:07:23.483 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2023-04-09 18:07:23.492 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Started ShardingTestApplication in 3.495 seconds (JVM running for 4.778) 
+2023-04-09 18:07:23.495 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - 1111 
+2023-04-09 18:07:23.495 [main] ERROR
+                org.java.shardingjdbc.ShardingTestApplication - 222 
+2023-04-09 18:07:23.496 [main] WARN 
+                org.java.shardingjdbc.ShardingTestApplication - 444 
+2023-04-09 18:07:55.298 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Starting ShardingTestApplication using Java 1.8.0_202 on DESKTOP-DEB9VCI with PID 23720 (F:\sanliu\workData\shardingjdbc\target\classes started by zhuhui in F:\sanliu\workData\shardingjdbc) 
+2023-04-09 18:07:55.301 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - No active profile set, falling back to 1 default profile: "default" 
+2023-04-09 18:07:56.655 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2023-04-09 18:07:56.667 [main] INFO 
+                org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2023-04-09 18:07:56.668 [main] INFO 
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60] 
+2023-04-09 18:07:56.814 [main] INFO 
+                o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2023-04-09 18:07:56.815 [main] INFO 
+                o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1302 ms 
+2023-04-09 18:07:57.288 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2023-04-09 18:07:57.427 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-2} inited 
+2023-04-09 18:07:58.119 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2023-04-09 18:07:58.129 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Started ShardingTestApplication in 3.746 seconds (JVM running for 5.106) 
+2023-04-09 18:07:58.131 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - 1111 
+2023-04-09 18:07:58.132 [main] ERROR
+                org.java.shardingjdbc.ShardingTestApplication - 222 
+2023-04-09 18:07:58.132 [main] WARN 
+                org.java.shardingjdbc.ShardingTestApplication - 444 
+2023-04-09 18:08:52.261 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Starting ShardingTestApplication using Java 1.8.0_202 on DESKTOP-DEB9VCI with PID 23336 (F:\sanliu\workData\shardingjdbc\target\classes started by zhuhui in F:\sanliu\workData\shardingjdbc) 
+2023-04-09 18:08:52.264 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - No active profile set, falling back to 1 default profile: "default" 
+2023-04-09 18:08:53.785 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2023-04-09 18:08:53.794 [main] INFO 
+                org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2023-04-09 18:08:53.794 [main] INFO 
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60] 
+2023-04-09 18:08:53.928 [main] INFO 
+                o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2023-04-09 18:08:53.929 [main] INFO 
+                o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1360 ms 
+2023-04-09 18:08:54.383 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2023-04-09 18:08:54.521 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-2} inited 
+2023-04-09 18:08:55.212 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2023-04-09 18:08:55.221 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Started ShardingTestApplication in 3.72 seconds (JVM running for 4.932) 
+2023-04-09 18:08:55.224 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - 1111 
+2023-04-09 18:08:55.224 [main] ERROR
+                org.java.shardingjdbc.ShardingTestApplication - 222 
+2023-04-09 18:08:55.225 [main] WARN 
+                org.java.shardingjdbc.ShardingTestApplication - 444 
+2023-04-09 18:11:29.989 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplicationTests - Starting ShardingTestApplicationTests using Java 1.8.0_202 on DESKTOP-DEB9VCI with PID 26236 (started by zhuhui in F:\sanliu\workData\shardingjdbc) 
+2023-04-09 18:11:30.014 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplicationTests - No active profile set, falling back to 1 default profile: "default" 
+2023-04-09 18:11:33.097 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited 
+2023-04-09 18:11:33.342 [main] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-2} inited 
+2023-04-09 18:11:35.006 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplicationTests - Started ShardingTestApplicationTests in 5.944 seconds (JVM running for 8.151) 
+2023-04-09 18:11:35.481 [SpringApplicationShutdownHook] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2023-04-09 18:11:35.486 [SpringApplicationShutdownHook] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2023-04-09 18:11:35.488 [SpringApplicationShutdownHook] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ... 
+2023-04-09 18:11:35.491 [SpringApplicationShutdownHook] INFO 
+                com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed 
+2023-04-09 19:29:13.456 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Starting ShardingTestApplication using Java 1.8.0_202 on DESKTOP-DEB9VCI with PID 8072 (F:\sanliu\workData\shardingjdbc\target\classes started by zhuhui in F:\sanliu\workData\shardingjdbc) 
+2023-04-09 19:29:13.533 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - No active profile set, falling back to 1 default profile: "default" 
+2023-04-09 19:29:14.458 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2023-04-09 19:29:14.466 [main] INFO 
+                org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2023-04-09 19:29:14.467 [main] INFO 
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60] 
+2023-04-09 19:29:14.594 [main] INFO 
+                o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2023-04-09 19:29:14.595 [main] INFO 
+                o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1027 ms 
+2023-04-09 19:29:14.906 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2023-04-09 19:29:14.915 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Started ShardingTestApplication in 2.315 seconds (JVM running for 3.504) 
+2023-04-09 19:29:14.917 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - 1111 
+2023-04-09 19:29:14.917 [main] ERROR
+                org.java.shardingjdbc.ShardingTestApplication - 222 
+2023-04-09 19:29:14.917 [main] WARN 
+                org.java.shardingjdbc.ShardingTestApplication - 444 
+2023-04-09 19:29:30.976 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Starting ShardingTestApplication using Java 1.8.0_202 on DESKTOP-DEB9VCI with PID 18748 (F:\sanliu\workData\shardingjdbc\target\classes started by zhuhui in F:\sanliu\workData\shardingjdbc) 
+2023-04-09 19:29:30.986 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - No active profile set, falling back to 1 default profile: "default" 
+2023-04-09 19:29:31.755 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2023-04-09 19:29:31.764 [main] INFO 
+                org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2023-04-09 19:29:31.765 [main] INFO 
+                org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60] 
+2023-04-09 19:29:31.894 [main] INFO 
+                o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2023-04-09 19:29:31.894 [main] INFO 
+                o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 825 ms 
+2023-04-09 19:29:32.202 [main] INFO 
+                o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2023-04-09 19:29:32.212 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - Started ShardingTestApplication in 2.225 seconds (JVM running for 3.383) 
+2023-04-09 19:29:32.215 [main] INFO 
+                org.java.shardingjdbc.ShardingTestApplication - 1111 
+2023-04-09 19:29:32.215 [main] ERROR
+                org.java.shardingjdbc.ShardingTestApplication - 222 
+2023-04-09 19:29:32.215 [main] WARN 
+                org.java.shardingjdbc.ShardingTestApplication - 444 
